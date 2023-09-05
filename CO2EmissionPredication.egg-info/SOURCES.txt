@@ -1,0 +1,7 @@
+setup.py
+CO2EmissionPredication.egg-info/PKG-INFO
+CO2EmissionPredication.egg-info/SOURCES.txt
+CO2EmissionPredication.egg-info/dependency_links.txt
+CO2EmissionPredication.egg-info/requires.txt
+CO2EmissionPredication.egg-info/top_level.txt
+src/__init__.py
